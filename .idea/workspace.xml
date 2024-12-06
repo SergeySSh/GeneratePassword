@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2b35ea-2dc7-4f9b-b11f-c2c48ab44c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GeneratePassword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GeneratePassword.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f2b35ea-2dc7-4f9b-b11f-c2c48ab44c80" name="Changes" comment="first variable">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +98,27 @@
       <option name="presentableId" value="Default" />
       <updated>1733510477093</updated>
     </task>
+    <task id="LOCAL-00001" summary="first variable">
+      <option name="closed" value="true" />
+      <created>1733514558237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733514558237</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first variable">
+      <option name="closed" value="true" />
+      <created>1733514572711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733514572711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="first variable" />
   </component>
 </project>
